@@ -4,7 +4,7 @@ Enter your location and a destination (defaults to Albuquerque, NM), pick a trav
 
 ## Live demo
 
-_Add your GitHub Pages link here once it's live, e.g. `https://yourname.github.io/albuquerqulator`_
+https://starheartstudio.github.io/Albuquerqulator/
 
 ## Features
 
