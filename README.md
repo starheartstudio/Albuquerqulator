@@ -23,16 +23,6 @@ _Add your GitHub Pages link here once it's live, e.g. `https://yourname.github.i
 2. **Routing** — driving and walking distances/times come from public [OSRM](https://project-osrm.org) routing servers. Blimp mode uses the Haversine formula for great-circle distance, since blimps don't follow roads.
 3. **The Weird Al math** — total travel time (in seconds) is divided by 683 seconds (11:23), the runtime of "Albuquerque" from the 1999 album *Running with Scissors*.
 
-## Running locally
-
-No build tools required. Clone the repo and open `index.html` directly in a browser, or serve it with any static file server.
-
-```bash
-git clone https://github.com/yourname/albuquerqulator.git
-cd albuquerqulator
-open index.html
-```
-
 ## Contributing
 
 Pull requests are welcome. Some ideas for extending this:
